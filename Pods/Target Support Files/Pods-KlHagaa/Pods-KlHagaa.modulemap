@@ -1,0 +1,6 @@
+framework module Pods_KlHagaa {
+  umbrella header "Pods-KlHagaa-umbrella.h"
+
+  export *
+  module * { export * }
+}
